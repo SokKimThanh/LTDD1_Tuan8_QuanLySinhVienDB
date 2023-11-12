@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuanLySinhVien</string>
+    <string name="crud_database">CRUD database</string>
+    <string name="x_a">Xóa</string>
+    <string name="th_m">Thêm</string>
+    <string name="m_sinh_vi_n">Mã sinh viên</string>
+    <string name="t_n_sinh_vi_n">Tên sinh viên</string>
+    <string name="gi_i_t_nh">Giới tính</string>
+    <string name="c_dl">Đọc DL</string>
+    <string name="s_a">Sửa</string>
+</resources>
